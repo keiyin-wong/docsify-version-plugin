@@ -1,0 +1,65 @@
+:root {
+    --heading-font-family: 'Lato', sans-serif;
+    --cover-background-color: #121212;
+    --cover-background-image: url('https://raw.githubusercontent.com/raycharius/slack-block-builder/master/docs/resources/images/background.png');
+    --cover-button-border: 2px solid #00c7f5;
+    --cover-button-color: #00c7f5;
+    --cover-button-primary-background: #e01e5a;
+    --cover-button-primary-border: 1px solid #e01e5a;
+    --cover-color: #fff;
+    --base-font-family: 'Lato', sans-serif;
+    --base-font-size: 16px;
+    --base-font-weight: 500;
+    --base-line-height: 1.7;
+
+    --heading-color: #121212;
+    --heading-h1-font-weight: 900;
+    --heading-h2-font-weight: 900;
+    --heading-h3-font-weight: 900;
+    --heading-h4-font-weight: 900;
+    --heading-h2-border-width: 0;
+
+    --sidebar-background: #f6f6f6;
+    --sidebar-border-color: rgb(225, 225, 225, 0);
+    --sidebar-border-width: 0;
+    --sidebar-width: 19rem;
+    --table-head-border-color: transparent;
+    --table-cell-border-color: transparent;
+    --table-row-odd-background: #f6f6f6;
+    --table-cell-padding: 1em .5em;
+
+    --sidebar-name-color: #e01e5a;
+    --sidebar-nav-margin: 1.3rem 0 0;
+    --sidebar-nav-link-background-image: none;
+    --sidebar-nav-pagelink-background-image: none;
+
+    --sidebar-nav-link-color: #181818;
+    --sidebar-nav-link-color--hover: #e01e5a;
+    --sidebar-nav-link-text-decoration--hover: none;
+    --sidebar-nav-link-color--active: #e01e5a;
+    --sidebar-nav-link-border-color--active: #e01e5a;
+
+    --sidebar-toggle-offset-left: 12px;
+    --sidebar-toggle-offset-top: 8px;
+    --sidebar-toggle-icon-height: 18px;
+    --sidebar-toggle-icon-width: 25px;
+    --sidebar-toggle-icon-stroke-width: 3px;
+    --sidebar-toggle-icon-color: #121212;
+
+    --code-inline-color: #e01e5a;
+    --code-inline-background: rgb(248, 248, 248);
+    --code-inline-border-radius: 5px;
+    --link-color: #02abd4;
+    --link-text-decoration: none;
+    --code-theme-keyword: #e01e5a;
+    --code-theme-function: #9c3d98;
+    --code-theme-selector: #00935e;
+    --code-theme-operator: #f6b000;
+    --docsifytabs-border-color: #f7f7f7;
+    --docsifytabs-border-px: 2px;
+    --docsifytabs-border-radius-px: 5px;
+    --docsifytabs-margin: 3em 0;
+    --docsifytabs-tab-color--active: #121212;
+    --docsifytabs-tab-color: #878787;
+    --docsifytabs-tab-background: #f7f7f7;
+}
